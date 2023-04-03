@@ -1,0 +1,16 @@
+Voting management systems are responsible for managing your entire election, from nominations and campaigns to voting and tabulating results.
+The Given Project Manages the Voters As well as the candidate for the Election and you can easily manage and show the result of given tabular representation using the Project.
+The Given Project is for Managing the Data of Voters and the Candidate as well as for the Voting System where voter can vote to their apropriate Candidate.
+
+How to Execute the Given Project
+first Place the Base Folder("my vb project") into the E: Drive of your PC.
+Start Executing The VMS Project
+
+For Login The User Name is :- ADMIN and The Password is :- ADMIN123
+
+The Given Project can Executing the Management of Data of 
+- VOTER 
+- CANDIDATE OF ELECTION
+- VOTES
+
+
